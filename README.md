@@ -6,7 +6,7 @@ https://www.safariwallet.org redirects to https://safariwallet.org.
 
 https://api.safariwallet.org is for web analytics.
 
-Web analytics can be viewed at https://simplanaltics.com/safariwallet.org.
+Web analytics can be viewed at https://simpleanalytics.com/safariwallet.org.
 
 ## Install
 
