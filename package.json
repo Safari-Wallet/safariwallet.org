@@ -1,0 +1,30 @@
+{
+    "name": "safariwallet.org",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "svelte-kit dev",
+        "build": "svelte-kit build",
+        "preview": "svelte-kit preview"
+    },
+    "devDependencies": {
+        "@sveltejs/adapter-static": "^1.0.0-next.13",
+        "@sveltejs/kit": "next",
+        "autoprefixer": "^10.3.1",
+        "cssnano": "^5.0.11",
+        "mdsvex": "^0.9.8",
+        "postcss-nested": "^5.0.6",
+        "rehype-autolink-headings": "^6.1.0",
+        "rehype-slug": "^5.0.0",
+        "remark-abbr": "^1.4.1",
+        "remark-github": "^11.2.2",
+        "sass": "^1.36.0",
+        "svelte": "^3.34.0",
+        "svelte-preprocess": "^4.7.4"
+    },
+    "type": "module",
+    "private": "true",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.4",
+        "tailwindcss": "^2.2.19"
+    }
+}
