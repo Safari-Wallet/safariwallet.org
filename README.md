@@ -1,6 +1,6 @@
 # safariwallet.org
 
-https://safariwallet.org is synced with https://safariwallet.vercel.app.
+https://safariwallet.org is synced with https://safariwallet-org.vercel.app.
 
 https://www.safariwallet.org redirects to https://safariwallet.org.
 
