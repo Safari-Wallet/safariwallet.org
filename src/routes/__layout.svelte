@@ -38,7 +38,7 @@
                 </div>
                 <div class="hidden lg:ml-auto lg:flex lg:items-center lg:space-x-10">
                     <a class="text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2" href="https://github.com/Safari-Wallet" rel="external noopener" target="_blank"><i class="fab fa-github mr-2" />GitHub</a>
-                    <a class="inline-flex items-center justify-center px-6 py-3 text-base font-bold leading-7 text-white transition-all duration-200 bg-gray-900 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900" href="https://twist.com/a/189215/ch/528482/t/3005456/c/72201270" rel="external noopener" target="_blank">Join Community</a>
+                    <a class="inline-flex items-center justify-center px-6 py-3 text-base font-bold leading-7 text-white transition-all duration-200 bg-gray-900 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900" href="https://bit.ly/safari-wallet-community" rel="external noopener" target="_blank">Join Community</a>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
             <a class="text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2" href="/license/" sveltekit:prefetch>License</a>
             <a class="text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2" href="/about/" sveltekit:prefetch>About</a>
             <a class="text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2" href="https://github.com/Safari-Wallet" rel="external noopener" target="_blank"><i class="fab fa-github mr-2" />GitHub</a>
-            <a class="inline-flex items-center justify-center px-6 py-3 text-base font-bold leading-7 text-white transition-all duration-200 bg-gray-900 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900" href="https://twist.com/a/189215/ch/528482/t/3005456/c/72201270" rel="external noopener" target="_blank">Join Community</a>
+            <a class="inline-flex items-center justify-center px-6 py-3 text-base font-bold leading-7 text-white transition-all duration-200 bg-gray-900 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900" href="https://bit.ly/safari-wallet-community" rel="external noopener" target="_blank">Join Community</a>
         </div>
     {/if}
     <slot />
