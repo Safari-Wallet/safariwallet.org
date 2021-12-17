@@ -22,7 +22,8 @@
         <div class="container px-4 mx-auto sm:px-6 lg:px-8">
             <div class="flex items-center justify-between">
                 <div class="flex-shrink-0">
-                    <a class="flex transition-all text-base font-bold text-gray-900 duration-200 rounded focus:outline-none hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2" href="/" sveltekit:prefetch>Safari Wallet</a>
+                    <a class="flex items-center transition-all text-base font-bold text-gray-900 duration-200 rounded focus:outline-none hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2" href="/" sveltekit:prefetch>
+                        <img src="/appicon.png" class="w-12 h-12 mr-2" alt="Safari Wallet Logo">Safari Wallet</a>
                 </div>
                 <div class="flex lg:hidden">
                     <button class="text-gray-900" on:click={toggleMenu}>
